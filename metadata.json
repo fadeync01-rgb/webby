@@ -1,0 +1,6 @@
+{
+  "name": "Webby - Personal Academic Workspace",
+  "description": "Platform akademik digital untuk mengelola materi pembelajaran, outline presentasi, dan jadwal belajar dinamis terintegrasi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
